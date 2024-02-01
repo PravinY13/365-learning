@@ -14,7 +14,7 @@ report 50121 "Posted Purchase Order"
 
 
             //COMPANY INFO. BLOCK
-            column(Picture; compInfo.Picture) { }
+            column(Picture123; compInfo.Picture) { }
             column(NAME; compInfo.Name) { }
             column(CompADD; compInfo.Address) { }
             column(EMAIL; compInfo."E-Mail") { }
