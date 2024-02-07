@@ -64,8 +64,8 @@ End Function
   <DataSets>
     <DataSet Name="DataSet_Result">
       <Fields>
-        <Field Name="Picture">
-          <DataField>Picture</DataField>
+        <Field Name="Picture123">
+          <DataField>Picture123</DataField>
         </Field>
         <Field Name="NAME">
           <DataField>NAME</DataField>

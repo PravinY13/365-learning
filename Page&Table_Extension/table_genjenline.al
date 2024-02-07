@@ -5,6 +5,7 @@ tableextension 50113 GJLExtension extends "Gen. Journal Line"
         field(50100; name; text[100])
         {
             DataClassification = ToBeClassified;
+            
         }
         // Add changes to table fields here
     }
